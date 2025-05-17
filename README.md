@@ -1,7 +1,14 @@
 # 🔍 Search Engine Project
 
-## Author: Serena Nguyen
-serenaan@uci.edu
+## Authors: Serena Nguyen
+This project was developed as a team effort for UCI's CS121: Information Retrieval course.
+
+- **Serena Nguyen** – Backend development, document indexing, and retrieval logic  
+- **Enrique Bar-Or** – Backend development, document indexing, and retrieval logic  
+- **Francoise Morada** – Frontend UI development and result visualization
+
+Team Number: 2024  
+UCI NET IDs: `serenaan`, `ebaror`, `fmorada`
 
 ## 📖 Overview
 
