@@ -33,3 +33,5 @@ Developed a lightweight document search engine that indexes a corpus of ~37,000 
 ```bash
 pip install -r requirements.txt
 python searchengineui.py
+
+then go to local host.
